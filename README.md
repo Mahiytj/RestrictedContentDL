@@ -86,3 +86,6 @@ docker compose down
 - Telegram: [@itsSmartDev](https://t.me/itsSmartDev)
 
 > **Note**: If you found this repo helpful, please fork and star it. Also, feel free to share with proper credit!
+<a href="https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Fbisnuray%2FRestrictedContentDL">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
